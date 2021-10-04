@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gesundemds@gmail.com
+	name = Marcos Da Silva
